@@ -2,8 +2,4 @@
 test me now
 I would like to do some work on this branch - Vijay
 
-class Student
-class Employee
-class Engineer
-
-will be used in this project.
+Project mission : is to migrate all my projects to github.
