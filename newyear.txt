@@ -1,2 +1,3 @@
 Hello World
 Welcome to Year 2017 !
+Be careful about changing global config settings.
