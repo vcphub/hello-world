@@ -1,2 +1,4 @@
 
-Can i commit without staging
+Can i commit without staging.
+
+I am not a fool !
